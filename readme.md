@@ -1,6 +1,6 @@
 ### canal study
 
-#### 使用canal获取mysql增量更新
+**使用canal获取mysql增量更新**
 
 canal 运行环境使用jdk8
 
